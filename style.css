@@ -1,0 +1,17 @@
+@font-face{font-family: "lato";src: url(Font/Lato-Bold.ttf); font-display: swap;
+   }
+
+body{background-image: url(Trop_petite.jpg);background-size: cover; background-repeat: no-repeat;font-family:"lato";font-size: 20px;font-weight: 400;
+    ;font-family: "lato",sans-serif;}
+.container{ height: 550px; width: 50%; color: darkblue ;
+    padding-top: 30px;padding-right: 50px; padding-left: 50px ; margin: 20px; background: white; opacity: 0.8; 
+
+}
+h1{text-align: center;font-weight: 900; background: white;padding: 10px; box-shadow: 1px 1px 0.3em rgb(123, 136, 250);opacity: 1;}
+h2{font-family:'Times New Roman', Times, serif; font-weight: 700;}
+
+ol{line-height:1.8em;}
+span{background: darkblue;color: white;padding: 5px;}
+.clair{color: rgb(2, 255, 255);}
+.bleu{background: rgb(2, 255, 255); color: darkblue; font-weight: bold;}
+strong{border: solid darkblue;font-size: 25px; padding: 5px;font-weight: 700;}
